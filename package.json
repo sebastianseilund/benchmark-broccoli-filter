@@ -2,8 +2,8 @@
   "name": "benchmark-broccoli-filter",
   "version": "0.0.0",
   "devDependencies": {
-    "broccoli": "^0.12.3",
-    "broccoli-filter": "^0.1.6",
+    "broccoli": "https://github.com/broccolijs/broccoli/tarball/master",
+    "broccoli-filter": "https://github.com/broccolijs/broccoli-filter/tarball/master",
     "rsvp": "^3.0.13"
   }
 }
